@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e07a2f"/>
+      <stop offset="100%" stop-color="#c45d1a"/>
+    </linearGradient>
+  </defs>
+  <rect width="32" height="32" rx="7" fill="url(#g)"/>
+  <!-- Anvil (simplified) -->
+  <path d="M8 20h16v2.5c0 .8-.7 1.5-1.5 1.5h-13c-.8 0-1.5-.7-1.5-1.5V20z" fill="#fff"/>
+  <path d="M10 17h12v3H10z" fill="#fff" opacity=".9"/>
+  <path d="M7 17h5l-2-4h-1.5c-.8 0-1.5.7-1.5 1.5V17z" fill="#fff" opacity=".85"/>
+  <path d="M20 17h5v-2.5c0-.8-.7-1.5-1.5-1.5H22l-2 4z" fill="#fff" opacity=".85"/>
+  <!-- Sparkles -->
+  <circle cx="10" cy="10" r="1.2" fill="#fff"/>
+  <circle cx="7" cy="10" r=".5" fill="#fff" opacity=".6"/>
+  <circle cx="10" cy="7" r=".5" fill="#fff" opacity=".6"/>
+  <circle cx="13" cy="10" r=".5" fill="#fff" opacity=".6"/>
+  <circle cx="10" cy="13" r=".5" fill="#fff" opacity=".6"/>
+  <circle cx="22" cy="8" r=".8" fill="#fff" opacity=".8"/>
+  <circle cx="20.5" cy="8" r=".35" fill="#fff" opacity=".5"/>
+  <circle cx="22" cy="6.5" r=".35" fill="#fff" opacity=".5"/>
+  <circle cx="23.5" cy="8" r=".35" fill="#fff" opacity=".5"/>
+  <circle cx="22" cy="9.5" r=".35" fill="#fff" opacity=".5"/>
+</svg>
